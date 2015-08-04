@@ -1,4 +1,4 @@
-// singleton GCD
+// singleton GCD initialisation
 // 
 //
 // IDECodeSnippetCompletionPrefix: singletonGCDInstanse
