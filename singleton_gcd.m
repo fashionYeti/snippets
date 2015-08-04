@@ -8,7 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 + (instancetype)sharedInstance {
-        static MyClass *sharedInstance = nil;
+    static <#MyClass *sharedInstance = nil;
         static dispatch_once_t oncePredicate;
         dispatch_once(&oncePredicate, ^{
             sharedInstance = [[self alloc] init];
