@@ -1,6 +1,7 @@
 // singleton GCD
 // 
 //
+// IDECodeSnippetCompletionPrefix: singletonGCDInstanse
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: F16902C1-2D00-40B6-A067-CCF0DF130BBD
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
